@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 - 🔭 I’m currently working on:
 <p>https://github.com/majorospeter98/bluespot </p>
-- 🌱 I’m currently learning **Composition API, Vuetify**
+- 🌱 I’m currently learning **TypeScript, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/majorospeter98](https://github.com/majorospeter98)
 
